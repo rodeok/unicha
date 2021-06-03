@@ -5,7 +5,7 @@ import "firebase/auth"
 
  export const auth = firebase.initializeApp({
     apiKey: "AIzaSyBtmneLzwQ3A83uEMrPFxg7EFa3_l4dPvc",
-    authDomain: "unichat-b7a7c.firebaseapp.com",
+    authDomain: "unicha5.vercel.app",
     projectId: "unichat-b7a7c",
     storageBucket: "unichat-b7a7c.appspot.com",
     messagingSenderId: "1061463156063",
